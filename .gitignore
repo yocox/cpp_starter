@@ -1,1 +1,3 @@
 build/*
+.clangd/index
+compile_commands.json
